@@ -1,0 +1,1 @@
+ssh -i /path_to_key/my_key.pem user_name@public_dns_name
